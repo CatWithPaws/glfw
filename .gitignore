@@ -53,8 +53,12 @@ src/glfw_config.h
 src/glfw3.pc
 src/glfw3Config.cmake
 src/glfw3ConfigVersion.cmake
+**.cmake
+**.vcxproj
 
 # Compiled binaries
+bin/
+bin-int/
 src/libglfw.so
 src/libglfw.so.3
 src/libglfw.so.3.5
